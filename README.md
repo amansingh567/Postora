@@ -40,9 +40,8 @@ A modern social app built with React and Appwrite, enabling users to create post
   yarn install
 
 3.Set up your Appwrite project and update environment variables:
-
-    Rename .env.sample to .env
-    Fill in your Appwrite project endpoint, project ID, database ID, collection IDs, and bucket IDs
+   Rename .env.sample to .env
+   Fill in your Appwrite project endpoint, project ID, database ID, collection IDs, and bucket IDs
 
 4.Run the app locally:
   npm run dev
@@ -76,7 +75,7 @@ vite.config.js
 README.md
 
   
-Deployment
+7. Deployment
   You can deploy this app easily on platforms like:
     Vercel
     Netlify
